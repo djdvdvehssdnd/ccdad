@@ -1,6 +1,5 @@
 pymongo
 motor_gridfs
-_QUERY_OPTIONS
 aiofiles
 aiohttp
 asyncio
