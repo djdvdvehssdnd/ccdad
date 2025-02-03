@@ -21,6 +21,7 @@ speedtest-cli
 spotipy
 tgcrypto
 numpy
+pymongodb
 yt-dlp
 youtube-search
 youtube-search-python
