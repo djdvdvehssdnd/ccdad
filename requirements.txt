@@ -1,4 +1,5 @@
 pymongo
+motor_gridfs
 aiofiles
 aiohttp
 asyncio
